@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Do Ba Hoang Minh
-* Student ID: 22BI13278
+* Student Name: Tran Duc Manh
+* Student ID: 22BI13274
 * Student Group ID: Not-for-now
